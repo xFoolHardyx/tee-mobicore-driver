@@ -177,5 +177,5 @@ module_init(mcapi_init);
 module_exit(mcapi_exit);
 
 MODULE_AUTHOR("Giesecke & Devrient GmbH");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("MobiCore API driver");

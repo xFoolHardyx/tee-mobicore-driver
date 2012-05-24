@@ -2965,7 +2965,7 @@ static void __exit mcKernelModule_exit(
 module_init(mcKernelModule_init);
 module_exit(mcKernelModule_exit);
 MODULE_AUTHOR("Giesecke & Devrient GmbH");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("MobiCore driver");
 
 /** @} */
