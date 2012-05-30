@@ -1,0 +1,6 @@
+MobiCore=r:16888
+MobiCoreDriverMod=r:17726
+MobiCoreDriverLib=b:MC11:17732
+MobiCoreDriverKernelApi=r:17727
+Logwrapper=r:16481
+Scripts=r:16967
